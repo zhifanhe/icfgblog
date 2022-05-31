@@ -1,7 +1,6 @@
 site_name: IC的帆哥
 nav:
-  - Home: index.md
+  - Home:  index.md
   - About: about.md
 
-#theme: readthedocs
-#theme: mkdocs
+
