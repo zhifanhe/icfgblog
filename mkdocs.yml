@@ -4,7 +4,7 @@ nav:
   - About: about.md
   - Reading: 
       - 管理大师 : Reading/Drucker.md
-      - 人生过半的启示 : Reading/Zhanghui.md
+      - 人生过半的启示 : Reading/zhanghui.md
 theme:
   name: readthedocs
 
