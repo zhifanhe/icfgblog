@@ -2,7 +2,9 @@ site_name: IC的帆哥
 nav:
   - Home:  index.md
   - About: about.md
-  - 'Reading': 
-      - 'Drucker': Reading/Drucker.md
-
+  - Reading: 
+      - 管理大师 : Reading/Drucker.md
+      - 人生过半的启示 : Reading/Zhanghui.md
+theme:
+  name: readthedocs
 
