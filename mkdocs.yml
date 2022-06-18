@@ -5,6 +5,10 @@ nav:
   - Reading: 
       - 管理大师 : Reading/Drucker.md
       - 人生过半的启示 : Reading/zhanghui.md
+      - 稻盛和夫: Reading/Daosheng.md
+  - Thinking:
+      - 父亲节: Thinking/father.md
+      - 奇遇: Thinking/neiguan.md
 theme:
   name: readthedocs
 
