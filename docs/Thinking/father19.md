@@ -38,7 +38,6 @@
 也许，这就是我生命中缺少的那样东西。
 
 时间过得真快，今天老妈发消息说：“今天是父亲节，祝你早日成为父亲！”我也到了做父亲的年龄，您在我这个时候，我已经三岁了，即将从武装部搬到新家，遥想当年，雄姿英发：
-![微信图片_20190616113130.jpg](https://upload-images.jianshu.io/upload_images/12318258-0975f1d2aa8b8940.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![father](../../pic/father.jpg)
 
