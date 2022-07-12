@@ -11,6 +11,9 @@ nav:
       - 父亲节22: Thinking/father22.md
       - 奇遇: Thinking/neiguan.md
       - 配吗？: Thinking/peima.md
+  - Note:
+      - DDR struct: Note/DDR.md
+      - Simpoint: Note/simpoint.md
 theme:
   name: readthedocs
 
